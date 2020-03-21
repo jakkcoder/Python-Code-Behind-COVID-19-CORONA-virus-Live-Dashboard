@@ -42,7 +42,7 @@ def get_corona_data():
     html_content = requests.get(url).text
     # Parse the html content
     soup = BeautifulSoup(html_content, "lxml")
-    gdp_table = soup.find("table", id = "main_table_countries")
+    gdp_table = soup.find("table", id = "main_table_countries_today")
     gdp_table_data = gdp_table.tbody.find_all("tr")
 
     # Getting all countries names
