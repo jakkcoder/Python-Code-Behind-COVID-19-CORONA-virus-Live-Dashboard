@@ -1,0 +1,202 @@
+Country,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered
+USA,"104,256",+130,"1,704 ",+8,"2,525"
+Italy,"86,498",,"9,134 ",,"10,950"
+Spain,"72,248","+6,529","5,690 ",+552,"12,285"
+Germany,"53,340","+2,469",399 ,+48,"6,658"
+Iran,"35,408","+3,076","2,517 ",+139,"11,679"
+France,"32,964",,"1,995 ",,"5,700"
+UK,"14,543",,759 ,,135
+Switzerland,"13,226",+298,240 ,+9,"1,530"
+S. Korea,"9,478",+146,144 ,+5,"4,811"
+Belgium,"9,134","+1,850",353 ,+64,"1,063"
+Netherlands,"8,603",,546 ,,3
+Austria,"7,712",+15,68 ,+10,225
+Turkey,"5,698",,92 ,,42
+Canada,"4,757",,55 ,,354
+Portugal,"4,268",,76 ,,43
+Norway,"3,807",+36,20 ,+1,7
+Australia,"3,635",+257,14 ,+1,170
+Brazil,"3,477",+60,93 ,+1,6
+Israel,"3,460",+425,12 ,,89
+Sweden,"3,069",,105 ,,16
+Czechia,"2,422",+143,9 ,,11
+Malaysia,"2,320",+159,27 ,+1,320
+Ireland,"2,121",,22 ,,5
+Denmark,"2,046",,52 ,,1
+Ecuador,"1,627",,41 ,,3
+Chile,"1,610",,5 ,,43
+Luxembourg,"1,605",,15 ,,40
+Japan,"1,499",,49 ,,372
+Romania,"1,452",+160,29 ,+3,139
+Poland,"1,436",+47,16 ,,7
+Pakistan,"1,408",+35,11  ,,25
+Russia,"1,264",+228,4 ,,49
+Thailand,"1,245",+109,6 ,+1,97
+South Africa,"1,170",,1 ,,31
+Finland,"1,165",+124,7 ,,10
+Indonesia,"1,155",+109,102 ,+15,59
+Saudi Arabia,"1,104",,3  ,,35
+Philippines,"1,075",+272,68 ,+14,35
+Greece,966,,28 ,,52
+India,933,+46,20 ,,84
+Iceland,890,,2 ,,97
+Panama,786,,14 ,,2
+Singapore,732,,2 ,,183
+Mexico,717,+132,12 ,+4,4
+Diamond Princess,712,,10 ,,597
+Argentina,690,+101,17  ,+4,72
+Estonia,645,+70,1 ,,20
+Peru,635,,11 ,,16
+Croatia,635,+49,4 ,+1,45
+Slovenia,632,,9 ,,10
+Dominican Republic,581,,20 ,,3
+Qatar,562,, ,,43
+Colombia,539,,6 ,,10
+Egypt,536,,30 ,,116
+Serbia,528,,8 ,,42
+Hong Kong,519,,4 ,,111
+Iraq,506,+48,42 ,+2,131
+Bahrain,473,+7,4 ,,254
+New Zealand,451,+83, ,,50
+Lebanon,412,+21,8 ,,27
+Algeria,409,,26 ,,29
+UAE,405,,2 ,,52
+Lithuania,382,+24,5 ,,1
+Armenia,372,+43,1 ,,28
+Morocco,358,+13,23 ,,11
+Hungary,343,+43,11 ,+1,34
+Bulgaria,313,+20,5 ,+2,9
+Ukraine,311,+1,8 ,+3,5
+Latvia,305,+25, ,,1
+Taiwan,283,+16,2 ,,30
+Uruguay,274,+36, ,,
+Slovakia,269,, ,,2
+Andorra,267,,3 ,,1
+Costa Rica,263,,2 ,,3
+Bosnia and Herzegovina,257,+20,4 ,,5
+Jordan,235,,1 ,,18
+Kuwait,235,+10, ,,64
+Tunisia,227,,7 ,,2
+San Marino,223,,21 ,,6
+North Macedonia,219,,3 ,,3
+Kazakhstan,204,+54,1 ,,14
+Moldova,199,,2 ,,2
+Albania,186,,8 ,,31
+Burkina Faso,180,,9 ,,12
+Vietnam,169,+6, ,,21
+Azerbaijan,165,,3 ,,15
+Cyprus,162,,5 ,,15
+Oman,152,+21, ,,23
+Malta,149,+10, ,,2
+Réunion,145,, ,,1
+Faeroe Islands,144,, ,,54
+Ghana,137,,4 ,,2
+Senegal,130,+11, ,,18
+Brunei ,120,+5,1 ,+1,25
+Venezuela,113,,2 ,,31
+Afghanistan,110,,4 ,,2
+Sri Lanka,110,+4, ,,9
+Uzbekistan,104,+16,2 ,+1,5
+Ivory Coast,101,, ,,3
+Cambodia,99,, ,,13
+Palestine,97,+6,1 ,,18
+Honduras,95,+27,1 ,,3
+Mauritius,94,,2 ,,
+Belarus,94,, ,,32
+Martinique,93,,1 ,,
+Cameroon,91,,2 ,,2
+Channel Islands,88,,1 ,,
+Georgia,85,+2, ,,14
+Montenegro,82,,1 ,,
+Nigeria,81,+11,1 ,,3
+Cuba,80,,2 ,,4
+Bolivia,74,+13, ,,
+Guadeloupe,73,,1 ,,
+Trinidad and Tobago,66,,2 ,,1
+DRC,58,+7,6 ,+3,2
+Kyrgyzstan,58,, ,,
+Paraguay,56,+4,3 ,,1
+Liechtenstein,56,, ,,
+Gibraltar,55,, ,,14
+Rwanda,54,, ,,
+Mayotte,50,, ,,
+Bangladesh,48,,5 ,,15
+Monaco,42,, ,,1
+Macao,34,, ,,10
+Aruba,33,, ,,1
+Guatemala,32,+4,1 ,,4
+Isle of Man,32,+3, ,,
+Kenya,31,,1 ,,1
+Jamaica,30,+4,1 ,,2
+French Polynesia,30,, ,,
+French Guiana,28,, ,,6
+Barbados,26,, ,,
+Madagascar,26,, ,,
+Togo,25,,1 ,,1
+Uganda,23,, ,,
+Zambia,22,, ,,
+El Salvador,19,+6, ,,
+Bermuda,17,, ,,2
+Ethiopia,16,, ,,
+Maldives,16,, ,,9
+New Caledonia,15,, ,,
+Tanzania,13,, ,,1
+Djibouti,12,, ,,
+Equatorial Guinea,12,, ,,
+Mongolia,12,+1, ,,
+Dominica,11,, ,,
+Mali,11,, ,,
+Saint Martin,11,, ,,
+Niger,10,,1 ,,
+Bahamas,10,, ,,1
+Greenland,10,, ,,2
+Eswatini,9,, ,,
+Cayman Islands,8,,1 ,,
+Curaçao,8,,1 ,,2
+Guinea,8,, ,,
+Haiti,8,, ,,
+Myanmar,8,, ,,
+Namibia,8,, ,,2
+Suriname,8,, ,,
+Gabon,7,,1 ,,
+Zimbabwe,7,+2,1 ,,
+Antigua and Barbuda,7,, ,,
+Grenada,7,, ,,
+Mozambique,7,, ,,
+Seychelles,7,, ,,
+Benin,6,, ,,
+Eritrea,6,, ,,
+Laos,6,, ,,
+Cabo Verde,5,,1 ,,
+Guyana,5,,1 ,,
+Sudan,5,+2,1 ,,
+Nepal,5,+1, ,,1
+Fiji,5,, ,,
+Mauritania,5,+2, ,,
+Montserrat,5,, ,,
+St. Barth,5,, ,,
+Syria,5,, ,,
+Nicaragua,4,,1 ,,
+Angola,4,, ,,
+Congo,4,, ,,
+Vatican City,4,, ,,
+Gambia,3,,1 ,,
+Bhutan,3,, ,,
+CAR,3,, ,,
+Chad,3,, ,,
+Liberia,3,, ,,
+Saint Lucia,3,, ,,1
+Sint Maarten,3,, ,,
+Somalia,3,, ,,
+MS Zaandam,2,, ,,
+Anguilla,2,, ,,
+Belize,2,, ,,
+British Virgin Islands,2,, ,,
+Guinea-Bissau,2,, ,,
+Saint Kitts and Nevis,2,, ,,
+Turks and Caicos,2,, ,,
+Libya,1,, ,,
+Papua New Guinea,1,, ,,
+St. Vincent Grenadines,1,, ,,
+Timor-Leste,1,, ,,
+China,"81,394",+54,"3,295 ",+3,"74,971"
